@@ -7,7 +7,7 @@ const Home = () => {
   const [data, setData] = useState([]);
   useEffect(() => {
     axios
-      .get("http://localhost:4000/treatment")
+      .get("https://elearn10amsept-1.onrender.com/treatment")
       .then((res) => {
         setData(res.data);
       })
