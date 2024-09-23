@@ -1,0 +1,32 @@
+.breadcrumb {
+    background-color: rgb(9, 108, 30);
+    padding: 20px 0px;
+}
+
+.breadcrumb h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+}
+
+.formstyle {
+    box-shadow: 3px 4px 5px 3px #ddd;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.adminsidebar ul li {
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.adminsidebar ul li a {
+    font-weight: 500;
+}

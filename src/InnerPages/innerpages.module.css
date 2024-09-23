@@ -1,0 +1,30 @@
+.breadcrumb {
+    background-color: rgb(9, 108, 30);
+    padding: 20px 0px;
+}
+
+.breadcrumb h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+}
+
+.form {
+    box-shadow: 3px 4px 5px 3px #ddd;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%
+}
+
+.tretment h1 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.tretment h6 {
+    box-shadow: 3px 4px 5px 3px #ddd;
+    padding: 15px 10px;
+}
